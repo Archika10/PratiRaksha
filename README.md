@@ -21,7 +21,8 @@ ensuring they can be easily located in case they are outside. <br>
 - **PANIC Button** : The panic button feature acts as a direct emergency alert system. When activated, it immediately calls to the designated emergency contacts, alerting
 them of the user's situation and providing their location details. <br>
 <br>
-## Documentation
+
+## Documentation:
 
 - [Abstract](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Documents/Abstract.pdf)
 - [SRS](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Documents/SRS.pdf)
@@ -30,10 +31,6 @@ them of the user's situation and providing their location details. <br>
 - [Form1](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Documents/Form1.pdf)
 - [Form2](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Documents/Form2.pdf)
 - [Form3](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Documents/Form3.pdf)
-
-
-**In summary, the PratiRaksha App is a powerful tool designed to prioritize women's safety. By combining contact management, legal information, emergency alerts,
-self-defense resources, SMS capabilities, and location tracking, the app aims to empower women, raise awareness, and provide swift assistance in times of need.**
 
 ## Demo
 
@@ -77,6 +74,10 @@ Step 6: SMS Alert <br>
 Step 7: Location Sharing <br>
 Step 8: Basic laws of women  and  Self Defense Video <br>
 Step 9: Emergency Panic Button <br>
+<br>
+
+**In summary, the PratiRaksha App is a powerful tool designed to prioritize women's safety. By combining contact management, legal information, emergency alerts,
+self-defense resources, SMS capabilities, and location tracking, the app aims to empower women, raise awareness, and provide swift assistance in times of need.**
 
 ### Team Members
 Aayush Jain , 19ESKIT002 <br>
