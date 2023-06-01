@@ -4,9 +4,9 @@
 ## About the Project
 PratiRaksha(Android-App-for-Safety) is a comprehensive mobile application designed to empower and protect women in various situations.It integrates several essential
 features to ensure the safety and security of women,including a emergency contact feature, law feature, panic button feature, defense feature, SMS alert feature,
-fake call feature and location feature.
-A main feature of website is the Emergency PANIC Button.If the person feels unsafe in any situtation, they can click on that emergency PANIC button and within no time an 
-call will be made to her Trusted Contacts with her Location Credentials that she is in need of help.
+fake call feature and location feature. <br>
+A main feature of website is the Emergency PANIC Button.If the person feels unsafe in any situtation, they can click on that emergency PANIC button and within no 
+time an call will be made to her Trusted Contacts with her Location Credentials that she is in need of help.
 
 ### Key Features of our App:
 **Contact Feature** : enables users to create a list of trusted contacts, such as family members, friends, or emergency services. In case of an emergency,
@@ -20,13 +20,14 @@ ensuring they can be easily located in case they are outside. <br>
 **SMS Alert** : The SMS alert feature enables users to send pre-configured distress messages to their emergency contacts with a single tap. he app can send an SOS message with the user's location details, providing crucial information to the recipients. <br>
 **PANIC Button** : The panic button feature acts as a direct emergency alert system. When activated, it immediately calls to the designated emergency contacts, alerting
 them of the user's situation and providing their location details. <br>
-In summary, the PratiRaksha App is a powerful tool designed to prioritize women's safety. By combining contact management, legal information, emergency alerts,
-self-defense resources, SMS capabilities, and location tracking, the app aims to empower women, raise awareness, and provide swift assistance in times of need.
+<br>
+**In summary, the PratiRaksha App is a powerful tool designed to prioritize women's safety. By combining contact management, legal information, emergency alerts,
+self-defense resources, SMS capabilities, and location tracking, the app aims to empower women, raise awareness, and provide swift assistance in times of need.**
 
 ### Technologies Used:
-**Java <br>
+Java <br>
 Android Studio(Chipmunk 2021 2.1 Patch 1) <br>
-Sharedprefernce DB **
+Sharedprefernce DB
 
 ### How It Works
 Step 1: Download and Installation <br>
