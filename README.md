@@ -10,7 +10,7 @@ call will be made to her Trusted Contacts with her Location Credentials that she
 
 ### Key Features of our App:
 **Contact Feature** : enables users to create a list of trusted contacts, such as family members, friends, or emergency services. In case of an emergency,
-the app provides quick access to these contacts, allowing users to reach out for help efficiently.__
+the app provides quick access to these contacts, allowing users to reach out for help efficiently.<br>
 **Basic Law for Women** : The law feature provides users with essential information about local laws and regulations concerning women's safety.
 This feature aims to enhance awareness and empower women with knowledge and resources.
 **Self Defense** : The defense feature equips the app with self-defense tools and resources. It includes informative guides, instructional videos, and interactive 
