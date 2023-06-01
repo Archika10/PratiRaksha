@@ -6,7 +6,7 @@ PratiRaksha(Android-App-for-Safety) is a comprehensive mobile application design
 features to ensure the safety and security of women,including a emergency contact feature, law feature, panic button feature, defense feature, SMS alert feature,
 fake call feature and location feature.
 A main feature of website is the Emergency PANIC Button.If the person feels unsafe in any situtation, they can click on that emergency PANIC button and within no time an 
-call will be made to her Trusted Contacts with her Location Credentials that she is in need of help.
+call will be made to her Trusted Contacts with her Location Credentials that she is in need of help.__
 
 ### Key Features of our App:
 **Contact Feature** : enables users to create a list of trusted contacts, such as family members, friends, or emergency services. In case of an emergency,
