@@ -21,8 +21,46 @@ ensuring they can be easily located in case they are outside. <br>
 - **PANIC Button** : The panic button feature acts as a direct emergency alert system. When activated, it immediately calls to the designated emergency contacts, alerting
 them of the user's situation and providing their location details. <br>
 <br>
+## Documentation
+
+- [Abstract](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Documents/Abstract.pdf)
+- [SRS](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Documents/SRS.pdf)
+- [Pproject Report PDF](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Documents/ProjectReport.pdf)
+- [Pproject Report Latex](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Documents/Project_Report_Final(Pratiraksha)%20(1).zip)
+- [Form1](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Documents/Form1.pdf)
+- [Form2](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Documents/Form2.pdf)
+- [Form3](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Documents/Form3.pdf)
+
+
 **In summary, the PratiRaksha App is a powerful tool designed to prioritize women's safety. By combining contact management, legal information, emergency alerts,
 self-defense resources, SMS capabilities, and location tracking, the app aims to empower women, raise awareness, and provide swift assistance in times of need.**
+
+## Demo
+
+| StartPage | HomePage |
+|---     |---      |
+|![startpage](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Screenshots/9.jpeg)|![homepage](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Screenshots/8.jpeg)|
+
+| Contacts |  Fakecall |
+|---     |---      |
+|![contact](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Screenshots/7.jpeg) | ![fakecall](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Screenshots/5.jpeg) |
+
+
+|SMS Alert  | Sms Received |
+|---     |---      |
+|![smsalert](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Screenshots/4.jpeg)|![smsreceived](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Screenshots/message.jpeg)|
+
+
+|Location | Sms Received |
+|---     |---      |
+|![location](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Screenshots/11.jpeg)|![smsreceived](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Screenshots/10.jpeg)|
+
+
+|Basic Laws for Women | Self Defense video |
+|---     |---      |
+|![ basiclawsofwomen](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Screenshots/3.jpeg)|![selfdefensevideo](https://github.com/Archika10/PratiRaksha-Android-App-for-Safety-/blob/main/Screenshots/2.jpeg)|
+
+
 
 ### Technologies Used:
 Java <br>
@@ -41,6 +79,7 @@ Step 8: Basic laws of women  and  Self Defense Video <br>
 Step 9: Emergency Panic Button <br>
 
 ### Team Members
-Aayush Jain <br>
-Ankit Saini <br>
-Darshan Parsoliya <br>
+Aayush Jain , 19ESKIT002 <br>
+Ankit Saini , 19ESKIT009<br>
+Archika , 19ESKIT015 <br>
+Darshan Parsoliya , 19ESKIT022 <br>
