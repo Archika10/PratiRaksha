@@ -1,5 +1,5 @@
 # PratiRaksha(Android-App-for-Safety)
-**A women’s safety website that sends emails and messages to your trusted ones**
+**A women’s safety  android pplication that sends location of a person through messages and can made call to your trusted ones**
 
 ## About the Project
 PratiRaksha(Android-App-for-Safety) is a comprehensive mobile application designed to empower and protect women in various situations.It integrates several essential
